@@ -175,11 +175,12 @@ footer{
   flex-direction:column;
   box-shadow: 0 8px 20px rgba(183, 1, 193, 0.7);
 }
-footer h3{
+.links{
   color:#ffffff;
   font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
 }
-footer h3:hover{
+.links :hover{
   color: #ff00c8;
   scale: 1.05;
 }
